@@ -138,7 +138,7 @@ The report follows a progressive storytelling structure:
 Provide a high-level overview of suspicious pharmaceutical activity and highlight major risk indicators across the supply chain.
 
 ### 🖼️ Dashboard Preview
-[Insert Dashboard Screenshot Here]
+![Drug Risk Overview](https://github.com/dj-tiayon/Fake-Drug-Detection-Via-Pharmacy-Sales/blob/main/Dashboard%20Preview/drug-risk-overview.png)
 
 ### 💡 Key Focus
 Help stakeholders quickly understand the overall level of pharmaceutical risk and identify major anomaly trends.
@@ -151,7 +151,7 @@ Help stakeholders quickly understand the overall level of pharmaceutical risk an
 Explore suspicious sales behavior, investigate supplier-related risks, and analyze anomaly patterns in greater detail.
 
 ### 🖼️ Dashboard Preview
-[Insert Dashboard Screenshot Here]
+![Risk Investigation](https://github.com/dj-tiayon/Fake-Drug-Detection-Via-Pharmacy-Sales/blob/main/Dashboard%20Preview/risk-investigation.png)
 
 ### 💡 Key Focus
 Support deeper investigation into suspicious suppliers, brands, and transaction patterns contributing to counterfeit drug risk.
@@ -164,7 +164,7 @@ Support deeper investigation into suspicious suppliers, brands, and transaction 
 Provide a detailed investigation page for analyzing supplier-specific suspicious activity.
 
 ### 🖼️ Dashboard Preview
-[Insert Dashboard Screenshot Here]
+![Supplier Analysis](https://github.com/dj-tiayon/Fake-Drug-Detection-Via-Pharmacy-Sales/blob/main/Dashboard%20Preview/supplier-analysis.png)
 
 ### 💡 Key Focus
 Help stakeholders understand why a supplier is considered high-risk and identify the main drivers behind suspicious transactions.
